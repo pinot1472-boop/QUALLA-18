@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.env
+state.json
+state.json.tmp
+state.json.corrupto-*
+.venv/
+venv/
+.DS_Store
